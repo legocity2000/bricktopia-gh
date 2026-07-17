@@ -1,0 +1,78 @@
+body{
+    background-image: url(../branding/background.png);
+    color: whitesmoke;
+    font-family:Calibri;
+}
+.hiv{
+    color: #338efa;
+}
+h5{
+    font-size: 150%;
+    color: rgb(51, 142, 250);
+}
+table.fotabla{
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+td.right{
+    width: 20%;
+    border-left: 4px solid #338efa;
+    padding-top: 0;
+    padding-left: 10px;
+}
+h1, h2{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+p.title{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+hr{
+    margin-top: 0px;
+    margin-left: 0;
+    height: 4px;
+    border-color: #338efa;
+    background-color: rgb(51, 142, 250);
+}
+h1.focim{
+    font-size: 48px;
+    margin-bottom: 0;
+}
+h2.szerepkor{
+    font-size: 36px;
+}
+td{
+    vertical-align: top;
+}
+a.hiddenlink{
+    text-decoration: none;
+    color: whitesmoke;
+}
+table.lab{
+    width: 100%;
+    background-color: #1c1f26;
+    border-radius: 0px;
+    border-spacing: 0px;
+    padding: 0px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    border-top: #338efa solid 5px;
+}
+td.lab{
+    border: 0;
+    vertical-align: top;
+}
+ul, li{
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    margin: 0px;
+    list-style-type: none;
+}

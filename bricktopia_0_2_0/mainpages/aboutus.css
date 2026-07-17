@@ -1,0 +1,57 @@
+body{
+    background-image: url(../branding/background.png);
+    color: whitesmoke;
+    font-family:Calibri;
+}
+.hiv{
+    color: #338efa;
+}
+h5{
+    font-size: 150%;
+    color: rgb(51, 142, 250);
+}
+table.fotabla{
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+p.title{
+    font-size: 22px;
+    margin-bottom: 3px;
+}
+p{
+    font-size: 20px;
+    padding-left: 5px;
+}
+hr{
+    margin-top: 0;
+    margin-left: 0;
+    height: 4px;
+    border-color: #338efa;
+    background-color: rgb(51, 142, 250);
+}
+.focim{
+    text-align: center;
+    font-size: 5em;
+}
+p.sign{
+    text-align: end;
+}
+td.right{
+    width: 20%;
+    border-left: 4px solid #338efa;
+    padding-top: 0;
+    padding-left: 10px;
+}
+img{
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+td{
+    vertical-align: top;
+}
+p.set{
+    margin-bottom: 0;
+    font-size: 22px;
+}
