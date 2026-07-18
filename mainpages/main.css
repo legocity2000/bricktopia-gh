@@ -91,6 +91,10 @@ p.core{
     font-size: 60px;
     text-align: center;
     font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #338efa;
+    text-decoration-thickness: 5px;
+    text-decoration-skip-ink: none;
 }
 li.features{
     font-size: 21px;
